@@ -1,0 +1,39 @@
+let aliencolors:string ="green";
+if(aliencolors ==="green"){
+console.log("player earned 5 points.")
+}
+else if(aliencolors==="yellow"){
+ console.log("player earned 10 points.")   
+}
+else if( aliencolors ==="red"){
+ console.log("player earned 15 points.")  
+}
+else{
+    console.log("please select right color")
+}
+aliencolors ="yellow"
+if(aliencolors ==="green"){
+console.log("player earned 5 points")
+}
+else if(aliencolors==="yellow"){
+ console.log("player earned 10 points")   
+}
+else if( aliencolors ==="red"){
+  console.log("player earned 15 points.")  
+}
+else{console.log("please select right color")
+}
+
+aliencolors ="red"
+if(aliencolors ==="green"){
+console.log("player earned 5 point")
+}
+else if(aliencolors==="yellow"){
+ console.log("player earned 10 point")   
+}
+else if( aliencolors ==="red"){
+  console.log("player earned 15 points.")  
+}
+else{console.log("please select right color")
+}
+ 
